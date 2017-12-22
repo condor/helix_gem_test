@@ -6,3 +6,13 @@
 /pkg/
 /spec/reports/
 /tmp/
+
+# Rust-related.
+/lib/helix_gem_test/native.*
+/target/
+
+# IntelliJ-related
+/.idea/
+
+# vim work files
+.*.sw*
